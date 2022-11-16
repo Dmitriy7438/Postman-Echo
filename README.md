@@ -1,1 +1,1 @@
-https://camo.githubusercontent.com/182b6dc5ad6cffb7774b953fbfa8d20ce5b326d07c79af0c3d4ad9d9eec02d78/68747470733a2f2f692e696d6775722e636f6d2f5639634f654a4f2e706e67
+[![Build status](https://ci.appveyor.com/api/projects/status/y5r10q835ov3b0na?svg=true)](https://ci.appveyor.com/project/Dmitriy7438/postman-echo-2rudf)
